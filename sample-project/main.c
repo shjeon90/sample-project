@@ -2,5 +2,6 @@
 
 int main() {
 	printf("Hello, world.\n");
+	printf("This is the sample project.\n");
 	return 0;
 }
